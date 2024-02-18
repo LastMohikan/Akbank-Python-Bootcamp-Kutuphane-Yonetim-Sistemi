@@ -1,0 +1,2 @@
+1,beyaz,anonim,2003,123
+2,siyah,asjdhask,1950,123
